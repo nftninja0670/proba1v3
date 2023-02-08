@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x60f1C10c5D1D9129366593a28D9FbAE9600b7C08",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x60f1c10c5d1d9129366593a28d9fbae9600b7c08",
+  "NETWORK": {
+    "NAME": "Mumbai",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "proba2",
+  "SYMBOL": "NCC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/proba2-v3",
+  "SHOW_BACKGROUND": true
+}
